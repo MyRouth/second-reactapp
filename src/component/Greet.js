@@ -9,6 +9,5 @@ const Greet = props => {
             </h1>
         </div>
     )
-
 }
 export default Greet
